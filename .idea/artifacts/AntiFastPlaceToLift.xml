@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntiFastPlaceToLift">
+    <output-path>$PROJECT_DIR$/out/artifacts/AntiFastPlaceToLift</output-path>
+    <root id="archive" name="AntiFastPlaceToLift.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="防止跳搭" />
+    </root>
+  </artifact>
+</component>
